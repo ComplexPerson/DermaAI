@@ -1,0 +1,15 @@
+{
+  "name": "skinai-electron",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^39.2.6",
+    "onnxruntime-node": "^1.16.3"
+  },
+  "dependencies": {
+    "jimp": "^0.22.12"
+  }
+}
